@@ -1,0 +1,24 @@
+{
+  "description": "Resident was found wandering in the parking lot at 11:15pm, approximately 45 minutes after her last room check. Staff located her near the facility's south entrance, disoriented but uninjured. She was brought back inside and assessed by night staff.",
+  "state": "TX",
+  "incidentReport": {
+    "residentId": "RES-2087",
+    "dateTime": "2026-06-20T23:15:00-05:00",
+    "staffInvolved": "Night shift LVN - T. Brooks",
+    "durationMinutes": 45
+  },
+  "simulate": {
+    "validator": {
+      "type": "server_error",
+      "failCount": 0,
+      "successValue": {
+        "complete": false,
+        "missingFields": ["lawEnforcementNotified", "familyNotified"],
+        "clarifyingQuestions": [
+          "Was law enforcement notified about the elopement, and if so when?",
+          "Has the resident's family been notified, and if so when?"
+        ]
+      }
+    }
+  }
+}

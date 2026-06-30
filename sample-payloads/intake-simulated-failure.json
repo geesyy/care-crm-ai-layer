@@ -1,0 +1,14 @@
+{
+  "resident": {
+    "firstName": "Harold",
+    "lastName": "Mbeki",
+    "dateOfBirth": "1941-09-03",
+    "state": "TX"
+  },
+  "clinicalNotes": "Patient is a 84-year-old male with history of mild Alzheimer's disease and hypertension, controlled with lisinopril 10mg daily. Occasional wandering behavior noted at previous facility. No known allergies. Family reports patient remains independently mobile but becomes confused in the evening.",
+  "carePlan": {
+    "narrative": "Resident will be placed in the memory care wing with door alarms on his room. Evening check-ins every 30 minutes due to sundowning behavior. Blood pressure monitored daily.",
+    "documentedElements": ["medication management plan", "physician of record", "emergency contact"]
+  },
+  "simulateFailure": "regulatoryCompliance"
+}

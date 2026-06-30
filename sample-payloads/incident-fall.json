@@ -1,0 +1,13 @@
+{
+  "description": "Staff found resident on the floor of her room at 3:40am, near the bed. Resident stated she tried to get up to use the bathroom without calling for assistance. Bruising visible on left hip, resident reports pain when standing. No loss of consciousness reported.",
+  "state": "CA",
+  "incidentReport": {
+    "residentId": "RES-1042",
+    "dateTime": "2026-06-24T03:40:00-07:00",
+    "location": "Resident room 214",
+    "staffInvolved": "Night shift CNA - J. Alvarez",
+    "injuriesObserved": "Bruising on left hip, resident reports pain on standing",
+    "physicianNotified": "Yes, on-call physician Dr. Reyes notified at 4:05am",
+    "familyNotified": "Yes, daughter notified at 6:00am"
+  }
+}

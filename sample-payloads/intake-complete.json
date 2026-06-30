@@ -1,0 +1,19 @@
+{
+  "resident": {
+    "firstName": "Eleanor",
+    "lastName": "Whitfield",
+    "dateOfBirth": "1938-04-12",
+    "state": "CA"
+  },
+  "clinicalNotes": "Patient is an 87-year-old female admitted following hip fracture repair. History of type 2 diabetes managed with metformin 500mg twice daily. Mild cognitive impairment noted on intake assessment. Patient uses a walker and is at elevated fall risk due to recent surgery and unsteady gait. No known drug allergies. Daughter reports patient has had two falls at home in the past six months.",
+  "carePlan": {
+    "narrative": "Resident will receive twice-daily mobility assistance, blood glucose monitoring before meals, and a physical therapy consult within the first week. Room placed near the nursing station for closer observation.",
+    "documentedElements": [
+      "fall risk assessment",
+      "medication management plan",
+      "dietary restrictions",
+      "emergency contact and physician of record",
+      "advance directive on file"
+    ]
+  }
+}
